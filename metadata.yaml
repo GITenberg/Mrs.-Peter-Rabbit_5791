@@ -1,5 +1,8 @@
 _repo: Mrs.-Peter-Rabbit_5791
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: When Peter Rabbit convinces Little Miss Fuzzy Tail to marry him and come
   to live in the Dear Old Briar Patch, he finds true happiness and learns responsibility.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5791#Mrs.-Peter-Rabbit
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
